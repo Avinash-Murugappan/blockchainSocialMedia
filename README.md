@@ -1,4 +1,4 @@
-## ```"blockchainSocialMedia"```
+## ```"Blockchain Social Media Application"```
 
 Blockchain powered image sharing platform
 
