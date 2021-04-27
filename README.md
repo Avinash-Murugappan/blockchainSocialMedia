@@ -7,7 +7,7 @@ Blockchain powered image sharing platform
 
 ## Screen Shot of the Application:
 
-![ScreenShot](ScreenShot .png)
+![ScreenShot](Screen.png)
 
 ## 🔧 Project Diagram:
 
